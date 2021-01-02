@@ -2,5 +2,5 @@
     color: blue;
 }
 {
-    color: brown;
+    color: block;
 }
