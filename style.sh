@@ -2,5 +2,5 @@
     color: blue;
 }
 {
-    color: read
+    color: brown;
 }
